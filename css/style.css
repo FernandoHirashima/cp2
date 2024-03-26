@@ -11,6 +11,10 @@ h1 {
 
 
 .link{
+
     display: inline;
     margin: 5%;
+}
+header{
+    background-color: blue;
 }
