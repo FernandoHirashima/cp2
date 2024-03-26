@@ -21,3 +21,6 @@ h2{font-family: 'Times New Roman', Times, serif;
 header{
     background-color: blue;
 }
+nav a{ 
+    font-weight: bold;
+}
