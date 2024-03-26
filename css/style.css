@@ -3,8 +3,11 @@
 
 
 /*Esta é uma regra CSS3*/
-h1 {
+h1 {font-family: 'Times New Roman', Times, serif;
     color: red;
+}
+h2{font-family: 'Times New Roman', Times, serif;
+
 }
 
 /*Esta é uma regra CSS3*/
